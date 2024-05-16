@@ -1,0 +1,7 @@
+1. basic skeleton with constructors
+2. phases
+3. instantiate classes/create objects in  test.sv, env.sv, agent.sv
+4. Create 'UVM object' classes - packet.sv, sequence.sv
+5. Create 'interface.sv'; SET interface handle in 'top' module; GET interface handle in 'monitor' and 'driver' modules.
+6. Connections - ports are built into components, and then interconnected.
+7. Sequence class utilizes packet class to generate stimulus
